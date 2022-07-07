@@ -1,0 +1,207 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.maindiv{
+    background-color: white;
+    
+}
+
+/* -------------------------------Header-----------------------    */    /*----------ctrl+k+c   for comment ---*/
+
+.header{
+    height: 50px;
+    width: 100%;
+    background-color: #ef6a30;
+    color: blue;
+
+}
+.logo{
+    
+    height: 50px;
+    width: 20%;
+     background-color: blueviolet;
+     float: left;
+     
+}
+.sb{
+    
+    height: 50px;
+    width: 60%;
+    background-color:  yellow;
+    float: left;
+    
+}
+.icon{
+    float: left;
+    height: 50px;
+    width: 20%;
+    background-color: crimson;
+   
+    
+
+}
+
+
+/* -------------------------------------navigation bar -----------------   */
+.navbar{
+    background-color: blue;
+    color: white;
+    height: 50px;
+    
+    
+}
+ul{
+    float: left;
+    margin-top: 8px;
+    margin-left: 350px;
+}
+li{
+    display: inline-block;
+    padding: 10px 15px;
+
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    font-family: sans-serif;
+    font-weight: bold;
+
+}
+a:hover{
+    color: orangered;
+}
+.nav1{
+    width: 200px;
+    height: 50px;
+    font-size: medium;
+    font-weight: 500;
+    float: left;
+    background-color: tomato;
+
+}
+.nav2{
+    width: 100px;
+    height: 50px;
+    font-size: medium;
+    font-weight: 500;
+    float: left;
+    background-color: turquoise;
+
+}
+.nav3{
+    width: 100px;
+    height: 50px;
+    font-size: medium;
+    font-weight: 500;
+    float: left;
+    background-color: violet;
+}
+.nav4{
+    width: 200px;
+    height: 50px;
+    font-size: medium;
+    font-weight: 500;
+    float: left;
+    background-color: wheat;
+}
+
+/* --------------------------------------------------Slider------------------------- */
+
+.sliderimg{
+    width: 1230px;
+    height: 450px;
+    background-color: violet;
+    margin-left: 50px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.sliderimg img{
+    width: 1230px;
+    height: 450px;
+
+}
+
+/* -----------------------------------   Middiv  ------------------------ */
+
+.middiv{
+    background-color: brown;
+    margin-left: 50px;}
+
+.p1{
+    height: 300px;
+    width: 200px;
+    background-color: yellow;
+    float: left;
+    margin: 20px;
+    
+    
+}
+.p1 img{
+    height: 230px;
+    width: 200px;
+
+}
+
+
+
+.p2{
+    height: 300px;
+    width: 200px;
+    background-color: yellow;
+    float: left;
+    margin: 20px;
+
+}
+
+.p2 img{
+    height: 230px;
+    width: 200px;
+}
+
+.p3{
+    height: 300px;
+    width: 200px;
+    background-color:orangered;
+    float: left;
+    margin: 20px;
+
+}
+
+.p3 img{
+    height: 230px;
+    width: 200px;
+}
+
+.p4{
+    height: 300px;
+    width: 200px;
+    background-color:orchid;
+    float: left;
+    margin: 20px;
+
+}
+.p4 img{
+    height: 230px;
+    width: 200px;
+}
+
+.p5{
+    height: 300px;
+    width: 200px;
+    background-color: yellow;
+    float: left;
+    margin: 20px;
+
+}
+.p5 img{
+    height: 230px;
+    width: 200px;
+}
+
+
